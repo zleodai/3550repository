@@ -1,0 +1,10 @@
+C:\Users\awsom\Documents\GitHub\3550repository\whatsmyip\ipFinder\target\debug\deps\libtracing_futures-a3169a2c516dc6d3.rmeta: C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\lib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\stdlib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\mod.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\futures_03.rs
+
+C:\Users\awsom\Documents\GitHub\3550repository\whatsmyip\ipFinder\target\debug\deps\libtracing_futures-a3169a2c516dc6d3.rlib: C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\lib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\stdlib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\mod.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\futures_03.rs
+
+C:\Users\awsom\Documents\GitHub\3550repository\whatsmyip\ipFinder\target\debug\deps\tracing_futures-a3169a2c516dc6d3.d: C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\lib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\stdlib.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\mod.rs C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\futures_03.rs
+
+C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\lib.rs:
+C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\stdlib.rs:
+C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\mod.rs:
+C:\Users\awsom\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tracing-futures-0.2.5\src\executor\futures_03.rs:
